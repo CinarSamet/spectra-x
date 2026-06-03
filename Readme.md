@@ -129,8 +129,8 @@ Real-time spectrum analysis, waterfall heatmaps, and AI-assisted threat classifi
 # Breadboard Prototype
 
 <p align="center">
-  <img src="assets/breadboard1.jpg" width="48%" alt="Breadboard Setup 1">
-  <img src="assets/breadboard2.jpg" width="48%" alt="Breadboard Setup 2">
+  <img src="assets/breadboard1.jpeg" width="48%" alt="Breadboard Setup 1">
+  <img src="assets/breadboard2.jpeg" width="48%" alt="Breadboard Setup 2">
 </p>
 
 ---
