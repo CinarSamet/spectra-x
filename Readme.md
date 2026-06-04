@@ -155,7 +155,7 @@ The following settings were used:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spectra-x.git
+git clone https://github.com/CinarSamet/spectra-x.git
 cd spectra-x
 ```
 
